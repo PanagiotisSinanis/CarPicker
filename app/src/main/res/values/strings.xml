@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Car Picker</string>
+    <string name="button_label"> Pick a Brand </string>
+    <string name="saved_message">Your selection has been saved in:</string>
+</resources>

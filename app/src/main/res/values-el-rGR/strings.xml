@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Επιλογή Αυτοκινήτου</string>
+    <string name="button_label">Επιλέξτε Μάρκα </string>
+    <string name="saved_message">Η επιλογή σας αποθηκεύτηκε στο:</string>
+</resources>
